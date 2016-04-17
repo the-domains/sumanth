@@ -1,0 +1,28 @@
+name: sumanth
+favicon: null
+layout_spectrum: 0.852226305520162
+typography_spectrum: 0.6398666636087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.947411861969158
+  lightness: 0.8512902099173516
+  saturation: 0.9804353716317564
+  rhythmicContrast: 0.2604212057776749
+purpose: []
