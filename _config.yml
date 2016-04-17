@@ -1,7 +1,7 @@
 name: sumanth
 favicon: null
-layout_spectrum: 0.852226305520162
-typography_spectrum: 0.6398666636087
+layout_spectrum: 0.23625
+typography_spectrum: 0.25681
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.947411861969158
+  brandStrength: 0.9375
   lightness: 0.8512902099173516
   saturation: 0.9804353716317564
   rhythmicContrast: 0.2604212057776749
