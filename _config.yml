@@ -1,6 +1,6 @@
 name: sumanth
 favicon: null
-layout_spectrum: 0.23625
+layout_spectrum: 1
 typography_spectrum: 0.25681
 title: "Sumanth's Thoughts & Musings"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9375
-  lightness: 0.8512902099173516
-  saturation: 0.9804353716317564
-  rhythmicContrast: 0.2604212057776749
+    - '#090504'
+    - '#601921'
+    - '#676968'
+    - '#a9a298'
+    - '#9b5a46'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
